@@ -1,5 +1,14 @@
 {
     "token": "봇토큰",
-    "prefix": "-",
-    "dev": "개발자 아이디"
+    "prefix": "접두사",
+    "dev": ["개발자 아이디", "아이디2"],
+    "DB": {
+        "client": "mysql",
+        "connection": {
+          "host": "호스트", 
+          "user": "root",
+          "password": "비번",
+          "database": "디비"
+        }
+    }
 }

@@ -4,13 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node sharding.js",
+    "r": "node sharding.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "knex": "^0.21.17",
+    "mysql": "^2.18.1"
   }
 }
