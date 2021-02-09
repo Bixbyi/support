@@ -5,6 +5,8 @@
 # [Discord.js 닥스](https://discord.js.org/) - https://discord.js.org/<br>[Discord.js 가이드](https://discordjs.guide/) - https://discordjs.guide/
 # [Mysql 홈페이지](https://www.mysql.com/) - https://www.mysql.com/ <br> [Knex 닥스](http://knexjs.org/) - http://knexjs.org/
 
+## **[이벤트 핸들러 참조](https://medium.com/discordbot/this-is-a-good-event-handler-for-your-first-discord-js-bot-1e338e670697) - https://medium.com/discordbot/this-is-a-good-event-handler-for-your-first-discord-js-bot-1e338e670697**
+---
 ## 시작하기
 <br>
 
