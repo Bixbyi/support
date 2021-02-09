@@ -3,6 +3,8 @@
 # Discord.js version 12.5.1<br>라이센스 없는 전체 무료 오픈 소스<br>Djs커맨드 핸들러, 기본 명령어, 커스텀명령어<br>
 
 # [Discord.js 닥스](https://discord.js.org/) - https://discord.js.org/<br>[Discord.js 가이드](https://discordjs.guide/) - https://discordjs.guide/
+# [Mysql 홈페이지](https://www.mysql.com/) - https://www.mysql.com/ <br> [Knex 닥스](http://knexjs.org/) - http://knexjs.org/
+
 ## 시작하기
 <br>
 
