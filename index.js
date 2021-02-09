@@ -13,6 +13,7 @@ const { Intents } = require("discord.js");
 const client = new Discord.Client({ ws: { intents: Intents.ALL } }); // client 생성(인텐츠 모두 활성화)
 client.login(token);
 client.on("ready", () => {
+  client.user.setPresence({ activity: { name: '!도움말' }, status: 'online' }) //"!도움말" 이라는 게임 활동중 / 상태 : 온라인
   console.log(`${client.user.tag}is Ready`);
 });
 const cooldowns = new Discord.Collection();
